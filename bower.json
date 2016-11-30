@@ -27,6 +27,7 @@
     "font-awesome": "fontawesome#^4.6.3",
     "angular-material-data-table": "^0.10.9",
     "ace-diff": "*",
-    "angular-diff-match-patch": "^0.2.4"
+    "angular-diff-match-patch": "^0.2.4",
+    "js-sha256" : "0.3.2"
   }
 }
